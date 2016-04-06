@@ -1,3 +1,3 @@
 FROM postgres:9.5
 
-ADD install-uuid.sql /docker-entrypoint-initdb.d/install-uuid.sql
+ADD *.sql /docker-entrypoint-initdb.d/
