@@ -1,2 +1,2 @@
 # docker-postgres
-Docker PG 9.5 with uuid-ossp and btree_gist
+Docker PG 9.5.2 with uuid-ossp and btree_gist
